@@ -1,0 +1,23 @@
+{
+  "name": "jquery-responsiveflipper",
+  "version": "1.0.0",
+  "description": "Responsive flipper countdown",
+  "main": "jquery.flipper-responsive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurshlain/jQuery-ResponsiveFlipper.git"
+  },
+  "author": "arthurshlain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurshlain/jQuery-ResponsiveFlipper/issues"
+  },
+  "homepage": "https://github.com/arthurshlain/jQuery-ResponsiveFlipper#readme",
+  "keywords": [
+    "flipper",
+    "countdown"
+  ]
+}
